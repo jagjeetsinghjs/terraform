@@ -1,3 +1,5 @@
+change some command
+
 resource "aws_instance" "example" {
   ami                    = "ami-03bb6d83c60fc5f7c" # Specify the AMI ID for your instance
   instance_type          = "t2.micro"              # Specify the instance type (e.g., t2.micro, t2.small)
